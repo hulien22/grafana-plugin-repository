@@ -2694,6 +2694,18 @@
           "url": "https://github.com/grafana/grafana-sensu-app"
         }
       ]
+    },
+    {
+      "id": "cognitedata-datasource",
+      "type": "datasource",
+      "url": "https://github.com/cognitedata/cognite-grafana-datasource",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "204174732ec8141eee046a98969deeec22011b6a",
+          "url": "https://github.com/cognitedata/cognite-grafana-datasource"
+        }
+      ]
     }
   ]
 }
